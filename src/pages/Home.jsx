@@ -78,7 +78,7 @@ const Home = () => {
   }
 
   setDevicetoMusicana()
-  const TimeOut = setTimeout(setDevicetoMusicana, 1000)
+  const TimeOut = setTimeout(setDevicetoMusicana, 500)
   return (
     <div>
       <Top>
